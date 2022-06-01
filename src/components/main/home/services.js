@@ -15,8 +15,11 @@ const Services = () => {
 </span></a>
                         <a href="https://www.facebook.com/profile.php?id=100075946844572"><span
                             style={{fontSize: media(15, 20)}}><i className="fa-brands fa-facebook-f"/> Gapar Tashbek Uulu</span></a>
-                        <a href="tel:0778128872
-"><span style={{fontSize: media(15, 20)}}><i className="fa-solid fa-phone"/> 0778-12-88-72
+                        <a href="https://wa.me/0778128872
+"><span style={{fontSize: media(15, 20)}}><i className="fab fa-whatsapp"/> 0778-12-88-72
+</span></a>
+                        <a href="https://t.me/0778128872
+"><span style={{fontSize: media(15, 20)}}><i className="fab fa-telegram"/> 0778-12-88-72
 </span></a>
                         <a href="#"><span style={{fontSize: media(15, 20)}}><i className="fa-solid fa-location-dot"/> Чоң - Алай району Жекенди айыл өкмөтү . Шибээ айылы
 </span></a>

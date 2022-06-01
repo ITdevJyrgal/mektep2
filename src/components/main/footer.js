@@ -28,8 +28,9 @@ const Footer = () => {
                     </div>
                     <div className="footer-general__seti">
                         <h1>Соц тармактар</h1>
-                        <span>    <a href="https://www.facebook.com/profile.php?id=100075946844572"><span
-                            style={{fontSize: media(15, 20)}}><i className="fa-brands fa-facebook-f"/></span></a></span>
+                        <span> <a href="https://www.facebook.com/profile.php?id=100075946844572"><span style={{fontSize: media(15, 20)}}><i className="fa-brands fa-facebook-f"/></span></a></span>
+                        <span> <a href="https://wa.me/0778128872"><span style={{fontSize: media(15, 20)}}><i className="fab fa-telegram"/></span></a></span>
+                        <span> <a href="https://t.me/0778128872"><span style={{fontSize: media(15, 20)}}><i className="fab fa-whatsapp"/></span></a></span>
                     </div>
                 </div>
 
