@@ -36,8 +36,6 @@ const ModalIns = ({modal2, setModal2, dataModal}) => {
                     </div>
                 </div>
             }
-
-
         </div>
     );
 };
